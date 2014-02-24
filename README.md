@@ -1,4 +1,6 @@
-LAZYCRAFT
+LAZYCRAFT COMMANDS
 =========
 
 LAZYCRAFT
+commands:
+
